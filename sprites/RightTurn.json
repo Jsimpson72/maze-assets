@@ -1,0 +1,519 @@
+{
+	"frames": [
+		{
+			"filename": "RightTurn0000.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0001.png",
+			"frame": {
+				"x": 643,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0002.png",
+			"frame": {
+				"x": 1285,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0003.png",
+			"frame": {
+				"x": 1927,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0004.png",
+			"frame": {
+				"x": 2569,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0005.png",
+			"frame": {
+				"x": 3211,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0006.png",
+			"frame": {
+				"x": 3853,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0007.png",
+			"frame": {
+				"x": 4495,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0008.png",
+			"frame": {
+				"x": 5137,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0009.png",
+			"frame": {
+				"x": 5779,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0010.png",
+			"frame": {
+				"x": 6421,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0011.png",
+			"frame": {
+				"x": 7063,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0012.png",
+			"frame": {
+				"x": 7705,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0013.png",
+			"frame": {
+				"x": 8347,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0014.png",
+			"frame": {
+				"x": 8989,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0015.png",
+			"frame": {
+				"x": 9631,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0016.png",
+			"frame": {
+				"x": 10273,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0017.png",
+			"frame": {
+				"x": 10915,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0018.png",
+			"frame": {
+				"x": 11557,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0019.png",
+			"frame": {
+				"x": 12199,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0020.png",
+			"frame": {
+				"x": 12841,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0021.png",
+			"frame": {
+				"x": 13483,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0022.png",
+			"frame": {
+				"x": 14125,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		},
+		{
+			"filename": "RightTurn0023.png",
+			"frame": {
+				"x": 14767,
+				"y": 1,
+				"w": 640,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 640,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 640,
+				"h": 360
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 15408,
+			"h": 362
+		},
+		"scale": "1"
+	}
+}
